@@ -1,8 +1,8 @@
 {
- "versionCode": 9,
- "versionName": "9.0",
- "url": "https://github.com/Redmus/cityray-updates/releases/download/v9.0/CityrayDash-9.0.apk",
- "sha256": "3d05ea22ae4086f5a264ad60492d048430b690811f2f1afd33bb820fbe52f3e4",
- "sig": "MEUCIQC4sZQ43sQT08qG0fqHtklrKypYhqw1NMSJp98SwwP6lgIge0jRvhO9CiEZYBD2mrOi8lSvW/EwNIu8Y29fE88eFwg=",
- "notes": "Fix update reinstall loop, partner same size"
+ "versionCode": 10,
+ "versionName": "10.0",
+ "url": "https://github.com/Redmus/cityray-updates/releases/download/v10.0/CityrayDash-10.0.apk",
+ "sha256": "c7158261daf13716203f30e2f6a39202116bb7871643f0f0aef60664d6c6e9c1",
+ "sig": "MEUCIQDmSqxuRuTgWsUQOe1fhFwjIc30pjzhmGGRNz6rGmTD8AIgapJBQnccVpArhZz3Ogz2J4Ewm1yi5lEHgeTt3w6an60=",
+ "notes": "Moves play their real sound again, she only calls a move out when it has no clip"
 }
