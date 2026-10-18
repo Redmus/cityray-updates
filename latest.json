@@ -1,8 +1,8 @@
 {
- "versionCode": 7,
- "versionName": "7.0",
- "url": "https://github.com/Redmus/cityray-updates/releases/download/v7.0/CityrayDash-7.0.apk",
- "sha256": "1a617730aa7cb74e3ad6ad233c74385823805ef340fa94d5956826a0bbc0e017",
- "sig": "MEUCIBS+VV0Lz/mE8vJUo8AAJfsR9KkJMhM7Wla+mH8S62PsAiEA2PlpjhTW3Xt39NqIImICpkG1fuzEjhoQxANauh076HM=",
- "notes": "OTA updates, 28 anime moves, DJ playlists, French, perf"
+ "versionCode": 8,
+ "versionName": "8.0",
+ "url": "https://github.com/Redmus/cityray-updates/releases/download/v8.0/CityrayDash-8.0.apk",
+ "sha256": "ecf6639e13cd849f9e65ede7b3fcb3275294b8d7a7f39dabe17433ed2989fdec",
+ "sig": "MEUCIQCqIYbyMSxRVH7Pm+2dfplzaxPs0x14RckDBE3H6UkeNgIgM/Jn3KcUyIV9aWrNoiNl9J/z+Z5zZfxY5Ojqh3hQZAo=",
+ "notes": "Dragon Dive rain, slower moves, new Jinx rocket, moves always call out, no sweeping band"
 }
