@@ -1,8 +1,8 @@
 {
- "versionCode": 11,
- "versionName": "11.0",
- "url": "https://github.com/Redmus/cityray-updates/releases/download/v11.0/CityrayDash-11.0.apk",
- "sha256": "b18944a6ea8c4bfa889f8a2b8299318d8b46eacc40feede27c9c0e43bd2ea7aa",
- "sig": "MEUCIQDQveeonQRBqfvORV1sQU2NoH9xvZm0B4DJ7GxOzs2vFQIgZoxsScVau5Z9OTpkS3uIxJga0QWFPePNkO5YCsoeV8Y=",
- "notes": "Settings reorganised into six pages; Updates page shows the changelog and asks before installing; checks always read the newest release; moves play only their real sound"
+ "versionCode": 12,
+ "versionName": "12.0",
+ "url": "https://github.com/Redmus/cityray-updates/releases/download/v12.0/CityrayDash-12.0.apk",
+ "sha256": "3cdedad77211a810952836f745a86a30ec531a5d3145001ff74df124ee2e5ab4",
+ "sig": "MEYCIQDj29KkAnqFJiVTcQ+0HNUPJ6u+zjTC6A00cY28a8atCAIhAIwwo96/NRq9z7Py3vvXiuQJCvwgZMuUb0Ox9hiWodfi",
+ "notes": "Settings sections now open and close when tapped (and remember it); the Updates section opens by itself when a new version is waiting"
 }
