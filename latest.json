@@ -1,8 +1,8 @@
 {
- "versionCode": 10,
- "versionName": "10.0",
- "url": "https://github.com/Redmus/cityray-updates/releases/download/v10.0/CityrayDash-10.0.apk",
- "sha256": "c7158261daf13716203f30e2f6a39202116bb7871643f0f0aef60664d6c6e9c1",
- "sig": "MEUCIQDmSqxuRuTgWsUQOe1fhFwjIc30pjzhmGGRNz6rGmTD8AIgapJBQnccVpArhZz3Ogz2J4Ewm1yi5lEHgeTt3w6an60=",
- "notes": "Moves play their real sound again, she only calls a move out when it has no clip"
+ "versionCode": 11,
+ "versionName": "11.0",
+ "url": "https://github.com/Redmus/cityray-updates/releases/download/v11.0/CityrayDash-11.0.apk",
+ "sha256": "b18944a6ea8c4bfa889f8a2b8299318d8b46eacc40feede27c9c0e43bd2ea7aa",
+ "sig": "MEUCIQDQveeonQRBqfvORV1sQU2NoH9xvZm0B4DJ7GxOzs2vFQIgZoxsScVau5Z9OTpkS3uIxJga0QWFPePNkO5YCsoeV8Y=",
+ "notes": "Settings reorganised into six pages; Updates page shows the changelog and asks before installing; checks always read the newest release; moves play only their real sound"
 }
