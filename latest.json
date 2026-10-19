@@ -1,8 +1,8 @@
 {
- "versionCode": 13,
- "versionName": "13.0",
- "url": "https://github.com/Redmus/cityray-updates/releases/download/v13.0/CityrayDash-13.0.apk",
- "sha256": "547b1a230c6d771191781577e4dcde21aa40146a1f36bc9489325f4e96ac32c5",
- "sig": "MEQCIEN9/nj+s3U0lAEin0JUp8pYONycv6JIzGH1rIdd7AbmAiB9ZY7G8fI9ncNMA/Zd+f2XKrDwc4Fk/h3aCivG0JiLdg==",
- "notes": "Jinx: teal Fishbones launcher and a red shark-nose rocket with a steel band and fire; Dragon Dive: the dragon now comes down from the sky and bursts into golden rain"
+ "versionCode": 14,
+ "versionName": "14.0",
+ "url": "https://github.com/Redmus/cityray-updates/releases/download/v14.0/CityrayDash-14.0.apk",
+ "sha256": "f2b670fc860d929a9c783f40e4ea653ce3a9f11fe611a8aa9c195deb0c91de19",
+ "sig": "MEYCIQDoQfXxQOqFBVU2/MH7YIJdb1sK5AUdIMc3jInq3PS1lwIhAOkWf6yxelFY+lN9NL1+CNHf8TwBjg0c1LXIXcSogb/d",
+ "notes": "Zoltraak lasts long enough for her whole line and music; sound clips now play to the end of their move"
 }
