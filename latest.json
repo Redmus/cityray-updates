@@ -1,8 +1,8 @@
 {
- "versionCode": 12,
- "versionName": "12.0",
- "url": "https://github.com/Redmus/cityray-updates/releases/download/v12.0/CityrayDash-12.0.apk",
- "sha256": "3cdedad77211a810952836f745a86a30ec531a5d3145001ff74df124ee2e5ab4",
- "sig": "MEYCIQDj29KkAnqFJiVTcQ+0HNUPJ6u+zjTC6A00cY28a8atCAIhAIwwo96/NRq9z7Py3vvXiuQJCvwgZMuUb0Ox9hiWodfi",
- "notes": "Settings sections now open and close when tapped (and remember it); the Updates section opens by itself when a new version is waiting"
+ "versionCode": 13,
+ "versionName": "13.0",
+ "url": "https://github.com/Redmus/cityray-updates/releases/download/v13.0/CityrayDash-13.0.apk",
+ "sha256": "547b1a230c6d771191781577e4dcde21aa40146a1f36bc9489325f4e96ac32c5",
+ "sig": "MEQCIEN9/nj+s3U0lAEin0JUp8pYONycv6JIzGH1rIdd7AbmAiB9ZY7G8fI9ncNMA/Zd+f2XKrDwc4Fk/h3aCivG0JiLdg==",
+ "notes": "Jinx: teal Fishbones launcher and a red shark-nose rocket with a steel band and fire; Dragon Dive: the dragon now comes down from the sky and bursts into golden rain"
 }
