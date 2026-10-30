@@ -1,8 +1,8 @@
 {
- "versionCode": 16,
- "versionName": "16.0",
- "url": "https://github.com/Redmus/cityray-updates/releases/download/v16.0/CityrayDash-16.0.apk",
- "sha256": "92306cb0faf30b47dc7ee65d93a078b583d57ba94c2e5248eb7adcebffeb7dfc",
- "sig": "MEQCIDobORzvKk5//dhzJcq4SbuILXMB0KOuwaSWoRh1tOm0AiBgKlgOhPJ6Yg8ntJfQu84S8/mPH5DlYMgvUWSCqL9Urw==",
- "notes": "fix crash when taking a different road, removing a favourite no longer restarts the song (skips to next in favourites mode), lyrics cached offline"
+ "versionCode": 17,
+ "versionName": "17.0",
+ "url": "https://github.com/Redmus/cityray-updates/releases/download/v17.0/CityrayDash-17.0.apk",
+ "sha256": "819d9455426085eec01b3e8c5e226a5b99a92abbd8c5b46c3cc8d271e50d5220",
+ "sig": "MEUCIDbBPXSbeYy89yyFaYkvK4oukAeQJFM+wRvmyz1BerGcAiEA1/dY0dAQttBg42QAfoJqsTh7DJ9ZUF7eiyfDnNaXdMo=",
+ "notes": "navigation can no longer crash the overlay on a bad GPS fix; route-switch, favourites and offline lyrics fixes"
 }
