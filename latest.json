@@ -1,8 +1,8 @@
 {
- "versionCode": 15,
- "versionName": "15.0",
- "url": "https://github.com/Redmus/cityray-updates/releases/download/v15.0/CityrayDash-15.0.apk",
- "sha256": "f4e6d2ef2de5655a25be5ca88c7774148aba5f21802034f9ee7372581220db8f",
- "sig": "MEQCIGgg9yKsGDAIxwdQ/4/A7TUpbvjzLnlHam7xYWa+lbSSAiAnBJ8oTCDZZC2iQMv2/ARVsDquvd+KW6pbFjBL1wq7Yw==",
- "notes": "characters look toward the driver while listening"
+ "versionCode": 16,
+ "versionName": "16.0",
+ "url": "https://github.com/Redmus/cityray-updates/releases/download/v16.0/CityrayDash-16.0.apk",
+ "sha256": "92306cb0faf30b47dc7ee65d93a078b583d57ba94c2e5248eb7adcebffeb7dfc",
+ "sig": "MEQCIDobORzvKk5//dhzJcq4SbuILXMB0KOuwaSWoRh1tOm0AiBgKlgOhPJ6Yg8ntJfQu84S8/mPH5DlYMgvUWSCqL9Urw==",
+ "notes": "fix crash when taking a different road, removing a favourite no longer restarts the song (skips to next in favourites mode), lyrics cached offline"
 }
