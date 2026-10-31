@@ -1,8 +1,8 @@
 {
- "versionCode": 17,
- "versionName": "17.0",
- "url": "https://github.com/Redmus/cityray-updates/releases/download/v17.0/CityrayDash-17.0.apk",
- "sha256": "819d9455426085eec01b3e8c5e226a5b99a92abbd8c5b46c3cc8d271e50d5220",
- "sig": "MEUCIDbBPXSbeYy89yyFaYkvK4oukAeQJFM+wRvmyz1BerGcAiEA1/dY0dAQttBg42QAfoJqsTh7DJ9ZUF7eiyfDnNaXdMo=",
- "notes": "navigation can no longer crash the overlay on a bad GPS fix; route-switch, favourites and offline lyrics fixes"
+ "versionCode": 18,
+ "versionName": "18.0",
+ "url": "https://github.com/Redmus/cityray-updates/releases/download/v18.0/CityrayDash-18.0.apk",
+ "sha256": "d6a0262d704fb6dd4300154c778b9381eed962b182affd322540d0fdce328935",
+ "sig": "MEYCIQCD8i6pQAp2uf4HfPFHtpIjzuHY07lZvI1sq5j3V2scPgIhAKOHvNe/ur7GYNbyrvcmh6tpUvCZjE26BgAwfvHqfxVf",
+ "notes": "6 new anime moves, screen blank, no Anma/Ren chat, shuffled moves, offline lyrics, favourites and route-switch crash fixes, language loads at boot"
 }
