@@ -1,8 +1,8 @@
 {
- "versionCode": 18,
- "versionName": "18.0",
- "url": "https://github.com/Redmus/cityray-updates/releases/download/v18.0/CityrayDash-18.0.apk",
- "sha256": "d6a0262d704fb6dd4300154c778b9381eed962b182affd322540d0fdce328935",
- "sig": "MEYCIQCD8i6pQAp2uf4HfPFHtpIjzuHY07lZvI1sq5j3V2scPgIhAKOHvNe/ur7GYNbyrvcmh6tpUvCZjE26BgAwfvHqfxVf",
- "notes": "6 new anime moves, screen blank, no Anma/Ren chat, shuffled moves, offline lyrics, favourites and route-switch crash fixes, language loads at boot"
+ "versionCode": 19,
+ "versionName": "19.0",
+ "url": "https://github.com/Redmus/cityray-updates/releases/download/v19.0/CityrayDash-19.0.apk",
+ "sha256": "0f3faee70f0f47ba3680e4ff27825703d9c910a5802303260226fe1941d1ae6c",
+ "sig": "MEUCIQDPLlF6yM3lFsZDX0QujuQ5ph8xZlBf1UcNzkXg2bqhUgIgD4J6as/sV3Qbxd+dJ6NOq2gZx7wGiu8csdCCkOrz8fc=",
+ "notes": "update"
 }
