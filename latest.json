@@ -1,8 +1,8 @@
 {
- "versionCode": 25,
- "versionName": "25.0",
- "url": "https://github.com/Redmus/cityray-updates/releases/download/v25.0/CityrayDash-25.0.apk",
- "sha256": "9dd84b6ec88467a5b34621b81440bc9cf963c74a6be8a25e88e6b160e6e461b5",
- "sig": "MEYCIQCc0d+k3Sn4oF8YzNb3ZjmYZLgvpCHZ4ivyCvqroLyHVQIhALt28dC+N5SqLnCotPGIAM2pwg8zwXf5zF2HRqcnfj+p",
+ "versionCode": 26,
+ "versionName": "26.0",
+ "url": "https://github.com/Redmus/cityray-updates/releases/download/v26.0/CityrayDash-26.0.apk",
+ "sha256": "451faf7476f98af5f3fba67e2a3f822a8e83d177e6dd0ce44cc86fffb3ece25b",
+ "sig": "MEUCIQDVzFUEQpmRgY64hBS0JFrKlv8lUQgc2+Rij3WwX/LprQIgRf8e9zcYYToBNk0sSx8WZBSTw/sgAA8oBjbr3GaHZ7o=",
  "notes": "update"
 }
