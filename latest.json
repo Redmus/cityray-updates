@@ -1,8 +1,8 @@
 {
- "versionCode": 27,
- "versionName": "27.0",
- "url": "https://github.com/Redmus/cityray-updates/releases/download/v27.0/CityrayDash-27.0.apk",
- "sha256": "7238d7924a800e8fa0ee9a648b48b17800e6e21a842e5f2308d12b630999f86d",
- "sig": "MEUCIQD/YhmCk5PPoDFjwh8pripaJUSPM+u0pLxbkMH5sAvUZQIgPzrHacX1VKhM3TbTEOoc83Th7nJknS2M+KfxiHvVXb0=",
- "notes": "Speed: removed the sliding digit animation. Fancy pedal ring is now a green-to-red arc with a glowing head and a peak marker, sized to match the speed number."
+ "versionCode": 28,
+ "versionName": "28.0",
+ "url": "https://github.com/Redmus/cityray-updates/releases/download/v28.0/CityrayDash-28.0.apk",
+ "sha256": "d6c1a26889287adac13794a68d3c15410528f0954d27b9ff0aa4c7d47c27c23a",
+ "sig": "MEUCIEh8qOdBwwCs3zEs0ib/hM9m5AgUp/AqvlqEJ0RkU0HNAiEAm5c+l/SuFTFGbtPcmV/5wuOs9DstCqGeS2pmboIN5uo=",
+ "notes": "28 anime moves with sounds, taste-learning DJ with lyrics, faster-route offers and trip companion, new Anma/Ren banter, voice fixes"
 }
