@@ -1,8 +1,8 @@
 {
- "versionCode": 28,
- "versionName": "28.0",
- "url": "https://github.com/Redmus/cityray-updates/releases/download/v28.0/CityrayDash-28.0.apk",
- "sha256": "d6c1a26889287adac13794a68d3c15410528f0954d27b9ff0aa4c7d47c27c23a",
- "sig": "MEUCIEh8qOdBwwCs3zEs0ib/hM9m5AgUp/AqvlqEJ0RkU0HNAiEAm5c+l/SuFTFGbtPcmV/5wuOs9DstCqGeS2pmboIN5uo=",
- "notes": "28 anime moves with sounds, taste-learning DJ with lyrics, faster-route offers and trip companion, new Anma/Ren banter, voice fixes"
+ "versionCode": 29,
+ "versionName": "29.0",
+ "url": "https://github.com/Redmus/cityray-updates/releases/download/v29.0/CityrayDash-29.0.apk",
+ "sha256": "d1ce1330572afa608f900b5ed05ee19d26e207e2a57be7a4b20f209d7e1d7360",
+ "sig": "MEUCIDNghP4kr0U4Z7pdBQLSZnp0LyQUGH1I3lkL/5cnz+69AiEArUaoqhv7tjvk+fc4VKKf+l6BtzHaxlJGk5Ki9LCY1V4=",
+ "notes": "Speed ring shows speed with number inside; park assist guide (parallel and bay) with P button; auto-shrink in other apps; music taste removed; error logging"
 }
