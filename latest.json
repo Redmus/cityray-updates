@@ -1,8 +1,8 @@
 {
- "versionCode": 33,
- "versionName": "33.0",
- "url": "https://github.com/Redmus/cityray-updates/releases/download/v33.0/CityrayDash-33.0.apk",
- "sha256": "f6c7baf320a6f542a93e1f08464a1aef14d6314eea4ce01715d49fc746c9287a",
- "sig": "MEYCIQC6NDHvAsNtZBCcRHjrWmP2dZoDZ/pFXAeXxdoVV7KhHwIhAOEQdS48pZBMqSI050JicNS4JQLcx+73v/Oy5A7S3dV9",
- "notes": "Wallpaper: real weather (rain, snow, storm, cloud cover), scenery speeds up as you drive, fireflies and a passing night train. Sakura petals stay in every weather."
+ "versionCode": 34,
+ "versionName": "1.0.0",
+ "url": "https://github.com/Redmus/cityray-updates/releases/download/v1.0.0/CityrayDash-1.0.0.apk",
+ "sha256": "0c122bcfea4f39f851a26a601ee8b7c389d60f3f9df8d3f5e3a49c3c386413ee",
+ "sig": "MEUCIA9ObeXvow+95t2bH7DmKOXMR8/V4hBOoeUK5FdQm13KAiEAhn+doIsfx9nV0gDoAsfGRpc3mDA2Px9FcfudFr/r5no=",
+ "notes": "First semver release (was 33.0). Wallpaper: real weather, speed-reactive scenery, fireflies, night train. Sakura petals stay in every weather. Anma shrinks under the tab on hide; P button removed; bigger buttons; FIT capture probe."
 }
