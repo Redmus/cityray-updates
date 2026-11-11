@@ -1,8 +1,8 @@
 {
- "versionCode": 31,
- "versionName": "31.0",
- "url": "https://github.com/Redmus/cityray-updates/releases/download/v31.0/CityrayDash-31.0.apk",
- "sha256": "455d287895fc84b5bd08a3e7c1d9c5b6e05e388098c6737de0234a8dc1976703",
- "sig": "MEQCIA/12RP+r6xn5nno1JEBVA3PmxUPKDnIvPCB6F3wx5ujAiAm8uIb/Y0k9+GW5MgP2ORJGYxLE7iD/oEAIhlJSW0fag==",
- "notes": "Settings: new 'Ring shows speed' toggle. Off brings back the old ring that follows the accelerator. Includes 30.0: speed ring 0-180 km/h, side-park guide, auto-shrink in other apps, taste DJ removed."
+ "versionCode": 32,
+ "versionName": "32.0",
+ "url": "https://github.com/Redmus/cityray-updates/releases/download/v32.0/CityrayDash-32.0.apk",
+ "sha256": "72021b48d54e068ce44a4857a0e4b32499ffacd4e0dfda4cff30a3410072c274",
+ "sig": "MEUCIQC53UIwnqysYA4g8m6/iH/zo2JEZCRZVhFQtN992StlbgIgBH6T1nDvULcOWCAMFWMae+/Uah5IRi/4YnW/uA2f8L4=",
+ "notes": "Anma shrinks under the tab when you tap the hide button. P button removed (R opens the camera by itself). Bigger toolbar buttons. FIT now also tests whether the 360 picture can be captured (saves to /sdcard/CityrayDash/probe)."
 }
