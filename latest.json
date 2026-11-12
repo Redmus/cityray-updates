@@ -1,8 +1,8 @@
 {
- "versionCode": 34,
- "versionName": "1.0.0",
- "url": "https://github.com/Redmus/cityray-updates/releases/download/v1.0.0/CityrayDash-1.0.0.apk",
- "sha256": "0c122bcfea4f39f851a26a601ee8b7c389d60f3f9df8d3f5e3a49c3c386413ee",
- "sig": "MEUCIA9ObeXvow+95t2bH7DmKOXMR8/V4hBOoeUK5FdQm13KAiEAhn+doIsfx9nV0gDoAsfGRpc3mDA2Px9FcfudFr/r5no=",
- "notes": "First semver release (was 33.0). Wallpaper: real weather, speed-reactive scenery, fireflies, night train. Sakura petals stay in every weather. Anma shrinks under the tab on hide; P button removed; bigger buttons; FIT capture probe."
+ "versionCode": 35,
+ "versionName": "1.1.0",
+ "url": "https://github.com/Redmus/cityray-updates/releases/download/v1.1.0/CityrayDash-1.1.0.apk",
+ "sha256": "8f03a335d49af7a3ae20eb9a5eb2d0ce2e538ff86c8253f097c999cedfe64680",
+ "sig": "MEUCIEI2H/B01R4Crz6mc6QHqTM1BQUElfhha9kCRS6vyPseAiEAmymMuPmDDEkfVHa/NTDUN0hZyBW+RemNfLK4zhz/PEM=",
+ "notes": "Wallpaper: Shinkansen and raised train track, sunrise/sunset glow with pink Fuji, rain on the glass and neon streaks, planes and birds, crane, carp streamers, rooftop details, red lanterns at night, tap the sky for petals; lighter on CPU. Also: speed ring, park guide, auto-shrink card, DJ removed."
 }
