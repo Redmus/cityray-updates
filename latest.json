@@ -1,8 +1,8 @@
 {
- "versionCode": 35,
- "versionName": "1.1.0",
- "url": "https://github.com/Redmus/cityray-updates/releases/download/v1.1.0/CityrayDash-1.1.0.apk",
- "sha256": "8f03a335d49af7a3ae20eb9a5eb2d0ce2e538ff86c8253f097c999cedfe64680",
- "sig": "MEUCIEI2H/B01R4Crz6mc6QHqTM1BQUElfhha9kCRS6vyPseAiEAmymMuPmDDEkfVHa/NTDUN0hZyBW+RemNfLK4zhz/PEM=",
- "notes": "Wallpaper: Shinkansen and raised train track, sunrise/sunset glow with pink Fuji, rain on the glass and neon streaks, planes and birds, crane, carp streamers, rooftop details, red lanterns at night, tap the sky for petals; lighter on CPU. Also: speed ring, park guide, auto-shrink card, DJ removed."
+ "versionCode": 36,
+ "versionName": "1.1.1",
+ "url": "https://github.com/Redmus/cityray-updates/releases/download/v1.1.1/CityrayDash-1.1.1.apk",
+ "sha256": "a7a0ace9ad94dcdc54021c1f786edbf8ff5a104cf5559af14d5d96eca11c8517",
+ "sig": "MEYCIQC0y6n7to+zsUL/Xn8oWxC8T6f7Yw0JRU5D0CQ8o0uReQIhAI4xoK7iCOEDbBZocP06zpKyPSeJUMovD6dhwjRVXN+d",
+ "notes": "Wallpaper: slower trains, slim rail instead of the viaduct, crane and carp streamers removed for a calmer scene."
 }
