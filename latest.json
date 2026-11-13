@@ -1,8 +1,8 @@
 {
- "versionCode": 36,
- "versionName": "1.1.1",
- "url": "https://github.com/Redmus/cityray-updates/releases/download/v1.1.1/CityrayDash-1.1.1.apk",
- "sha256": "a7a0ace9ad94dcdc54021c1f786edbf8ff5a104cf5559af14d5d96eca11c8517",
- "sig": "MEYCIQC0y6n7to+zsUL/Xn8oWxC8T6f7Yw0JRU5D0CQ8o0uReQIhAI4xoK7iCOEDbBZocP06zpKyPSeJUMovD6dhwjRVXN+d",
- "notes": "Wallpaper: slower trains, slim rail instead of the viaduct, crane and carp streamers removed for a calmer scene."
+ "versionCode": 37,
+ "versionName": "1.1.2",
+ "url": "https://github.com/Redmus/cityray-updates/releases/download/v1.1.2/CityrayDash-1.1.2.apk",
+ "sha256": "9b12c685ae38fe50e0861abfe241f1be620a5bca9cc4124b176ed29859e8a753",
+ "sig": "MEYCIQCHxikolPHylUwOTaWqt4VlvMdO0NMZkQWWIm9iae7FUwIhAIZK517zs2e5lFUmgpsXLt1b+5QqLVfroarkkFv8DURB",
+ "notes": "Voice commands switch (off by default): she never listens or turns the music down, and the wheel button no longer opens the Chinese assistant. Pressing the button or her face while she talks stops her. New Haikyuu spike sound."
 }
