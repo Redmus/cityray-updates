@@ -1,8 +1,8 @@
 {
- "versionCode": 37,
- "versionName": "1.1.2",
- "url": "https://github.com/Redmus/cityray-updates/releases/download/v1.1.2/CityrayDash-1.1.2.apk",
- "sha256": "9b12c685ae38fe50e0861abfe241f1be620a5bca9cc4124b176ed29859e8a753",
- "sig": "MEYCIQCHxikolPHylUwOTaWqt4VlvMdO0NMZkQWWIm9iae7FUwIhAIZK517zs2e5lFUmgpsXLt1b+5QqLVfroarkkFv8DURB",
- "notes": "Voice commands switch (off by default): she never listens or turns the music down, and the wheel button no longer opens the Chinese assistant. Pressing the button or her face while she talks stops her. New Haikyuu spike sound."
+ "versionCode": 38,
+ "versionName": "1.1.3",
+ "url": "https://github.com/Redmus/cityray-updates/releases/download/v1.1.3/CityrayDash-1.1.3.apk",
+ "sha256": "65b33ee320f11f1934c330427f13f9151920acde8f94db6012c9f9462fead712",
+ "sig": "MEYCIQCrCnnjqDIHBsWHnagEK63AIAfCO2Ls+TTS5pFr9szhdAIhAO+UqBdRKsqsLILNpSxzGMYY03CNTFRaM+FecWUrqceL",
+ "notes": "Anime moves stay silent while music is playing: picture only, no clip and no shout. The karaoke score is still spoken."
 }
