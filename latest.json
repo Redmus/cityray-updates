@@ -1,8 +1,8 @@
 {
- "versionCode": 39,
- "versionName": "1.1.4",
- "url": "https://github.com/Redmus/cityray-updates/releases/download/v1.1.4/CityrayDash-1.1.4.apk",
- "sha256": "ad6ea6f344f45ab37ac5ebdf98ee1a86f00ad957ff5c355e349d8bdc1b099e67",
- "sig": "MEUCIF4KjLJyqccndDdK8If9m1sDGIHyErp2lqZ/oKt4teMBAiEA4fS0yQOeEaGF+Zel3MjD82XnJaIVmgh5QMYjtmU33Ck=",
- "notes": "10 new anime moves: Arise, Instant Transmission, Za Warudo, ODM Gear, Flower Field, Petrification, Oni Rem, Slime Form, Ego Volley, Poison Taster. Removed Serious Punch, Alchemy, Death Note, Fire Dragon, Excalibur, Pikachu and Kira Kira. Effects no longer cover her face or cross the dashboard, readable move names, speech models not loaded while voice commands are off, smaller update."
+ "versionCode": 40,
+ "versionName": "1.1.5",
+ "url": "https://github.com/Redmus/cityray-updates/releases/download/v1.1.5/CityrayDash-1.1.5.apk",
+ "sha256": "d4ca211c5cd7d19c209d9491dd93fcac9484ccefcfe4c928eaff4fb818a4f40b",
+ "sig": "MEUCIQCiCbb0WUJvzwkpfdh/FvkrpUZXmAwGf6aiaPwK1M24HAIgPov2hu18LVSdSNHncWRZc9Y/E0IADx5KzXkalWjUamQ=",
+ "notes": "Random anime button now uses every move for both characters (Anma was missing Dragon Dive, Zoltraak, Hollow Purple, Getsuga and Spirit Bomb; Ren was missing Tobe)."
 }
