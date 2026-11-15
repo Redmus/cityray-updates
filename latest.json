@@ -1,8 +1,8 @@
 {
- "versionCode": 41,
- "versionName": "2.0.0",
- "url": "https://github.com/Redmus/cityray-updates/releases/download/v2.0.0/CityrayDash-2.0.0.apk",
- "sha256": "5b3cf2fe13cb6277c4549acf12ff8ae5a769e280fda16ad9781efa938f9f372e",
- "sig": "MEUCIBQeJxNPQ3cURrnyUdHJX+/1WG5sK8E7KVzxIF+k8LkHAiEA1+AUKwd7izLibgz2t034OVHFISHGJ1qs5OWWIWFlgug=",
- "notes": "New clean cockpit card (bigger speed in its ring, one line of figures; switch back in Settings). Talk button hidden when voice commands are off. Yes/No buttons on her questions, hold \u2728 to pick an anime move, hold the cover for song info, nearby chips on the map. Wallpaper: real airliner, Japanese flag that follows the wind, real moon phase, fireworks on festival nights and 23-24 April / 8 August, meteor showers on peak nights."
+ "versionCode": 42,
+ "versionName": "2.0.1",
+ "url": "https://github.com/Redmus/cityray-updates/releases/download/v2.0.1/CityrayDash-2.0.1.apk",
+ "sha256": "fa529b7e61f7cd85a4b47eb24bcbd98a256b9c542683f9dfd9e90c4c4bf3a477",
+ "sig": "MEQCIGFGWHe993PErh7zDi5FQNtnIEDSXJVbFGtXD+H36shOAiBUvQOy4DE5xE6idtANHJn/0Fzf3SZRaGOvmMMjY8nuBg==",
+ "notes": "Flag moved clear of the torii gate; parking FIT marks stay pinned to the ground while you reverse (mark car 1, reverse, mark car 2)"
 }
